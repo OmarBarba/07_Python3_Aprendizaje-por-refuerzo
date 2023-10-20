@@ -1,0 +1,30 @@
+   
+   
+Incertidumbre: La incertidumbre se refiere a la falta de conocimiento o información completa 
+acerca de un evento o situación. En el contexto de la probabilidad, la incertidumbre se modela 
+mediante la asignación de probabilidades a los eventos para cuantificar cuán inciertos son.
+
+Probabilidad a Priori: La probabilidad a priori, a menudo llamada "prior", es la probabilidad
+inicial o creencia que tenemos sobre un evento antes de observar cualquier nueva evidencia. 
+Se utiliza en la estadística bayesiana para actualizar estas creencias iniciales con nueva información.
+
+Probabilidad Condicionada y Normalización: La probabilidad condicionada se refiere a la probabilidad 
+de que un evento ocurra dado que otro evento ha ocurrido. La normalización es el proceso de ajustar 
+las probabilidades para que sumen 1, lo que se hace a menudo al calcular probabilidades condicionadas.
+
+Distribución de Probabilidad: Una distribución de probabilidad describe cómo se distribuyen las 
+probabilidades entre los diferentes resultados posibles en un espacio muestral. Ejemplos de distribuciones 
+incluyen la distribución uniforme, la distribución binomial y la distribución normal.
+
+Independencia Condicional: Dos eventos son independientes condicionalmente si la ocurrencia (o no ocurrencia) 
+de uno no afecta la probabilidad del otro. La independencia condicional es un concepto importante en 
+estadística y probabilidad.
+
+Regla de Bayes: La Regla de Bayes es una fórmula fundamental en la estadística que se utiliza para actualizar 
+las probabilidades a priori con nueva evidencia. Permite calcular la probabilidad de un evento dado el conocimiento 
+de la probabilidad condicionada en sentido inverso. La regla de Bayes es esencial en la estadística bayesiana y 
+tiene muchas aplicaciones en campos como la inteligencia artificial, la medicina y la toma de decisiones.
+
+Estos conceptos son esenciales para comprender y aplicar la probabilidad en diversas áreas, incluida la 
+programación y la estadística. La estadística bayesiana, en particular, se basa en estos conceptos para 
+modelar la incertidumbre y actualizar creencias en función de nuevos dato
